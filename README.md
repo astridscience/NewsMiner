@@ -40,13 +40,6 @@ This project combines PDF parsing, layout detection, and natural language proces
 
 
 
-\## 🚀 Usage
-
-
-
-```bash
-
-python src/extract\_articles.py --input data/jornada\_2024\_01\_15.pdf --output outputs/articles\_2024\_01\_15.json
 
 
 
